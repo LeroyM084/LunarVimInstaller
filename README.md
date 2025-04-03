@@ -2,7 +2,7 @@
 LunarVimInstaller is a mini shell script that allows you to have a clean and easy NeoVim installation, and to sipply configure it with LunarVIM. 
 It starts by desinstalling NeoVim and LunarVim if they're already installed, and then to reinstall them.
 
-##Install 
+# Install 
 Clone this repo 
 
   ```bash
